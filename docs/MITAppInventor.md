@@ -6,11 +6,14 @@ The [MIT App Inventor](http://ai2.appinventor.mit.edu) seems a bit outdated, but
 * Simple to generate a real Android app
 * Don't need to learn native app development
 * Supports multiple screens, maps, persistence (database), basic logic, pedometer
+* Using the MIT website, apps can be run on a real physical (USB connected) Android device or on a software Android emulator
+* Data can be persisted/saved in a database
 
 # Cons / Unknowns
 
 * Collaboration. How do multiple people work on a single project?
 * Can it do everything we need?
+* If we don't use a database, data is lost every time the app is re-run
 
 # Suggestion
 

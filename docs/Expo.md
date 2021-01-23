@@ -12,7 +12,7 @@ The end result of an expo app is an application that runs on smartphones just li
 * Would need a crash course in React, web patterns, and using complex software engineering tools
 * Complicated process to run and build the app
 * A lot more can go wrong with this type of setup, and troubleshooting will be very difficult
-* Collaboration ay be difficult in a group setting (same sort of concerns as the MIT App Inventor)
+* Collaboration may be difficult in a group setting (same sort of concerns as the MIT App Inventor)
 
 # Suggestion
 
