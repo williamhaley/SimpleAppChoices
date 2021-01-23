@@ -6,4 +6,4 @@ This is not an exhaustive list of options.
 
 * [MIT App Inventor](docs/MITAppInventor.md)
 * [Progressive Web App](docs/PWA.md)
-* [Expo](docs/Expo.markdown)
+* [Expo](docs/Expo.md)
